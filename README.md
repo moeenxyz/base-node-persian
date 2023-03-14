@@ -112,7 +112,8 @@ ctrl + x رو همزمان بزنید
 docker compose up
 ```
 
-
+وقتی تموم بشه، یه همچین صفحه ای باید ببینید
+![image](https://iili.io/HXO22wv.png)
 
 <br>
 

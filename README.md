@@ -80,8 +80,7 @@ ETH - Goerli
 
 https://mirror.xyz/blog.persiandao.eth/WAXjgu57BDTyohyGecaNEaxL0XpvoFTv3ELRQhf5wbU
 
-بعد از این مراحل و داشتن لینک RPC
-
+بعد از این مراحل و داشتن لینک RPC یعنی همون لینکی که با https شروع میشه
 
 ویرایشگر نانو رو باز کنید
 

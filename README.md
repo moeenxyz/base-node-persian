@@ -1,9 +1,9 @@
 # آموزش ران کردن نود بیس Base
-![image](https://docs.base.org/img/logo_dark.svg)
+![image](https://iili.io/HXNL4YN.jpg)
 
 
 <h1 align="center"> Base Node Install guide in Persian </h1>
-<h1 align="center"> راهنمای نصب نود بیس به فارسی <br> << Moeendoteth >>
+<h1 align="center"> راهنمای نصب نود بیس به فارسی <br> 👽 Moeendoteth 👽
 </h1>
 
 ## 👽  اطلاعات و نیازمندی ها
@@ -89,7 +89,8 @@ nano docker-compose.yml
 ```
 
 <br><br>
-باید قسمت خاکستری خط رو ویرایش کنید : OP_NODE_L1_ETH_RPC=`https://ethereum-goerli-rpc.allthatnode.com`
+باید قسمت خاکستری خط رو ویرایش کنید : 
+OP_NODE_L1_ETH_RPC=`https://ethereum-goerli-rpc.allthatnode.com`
 <br>
 لینک RPC رو به جای اون قسمت مشخص شده پیست کنید و بعد از اون 
 ctrl + x رو همزمان بزنید

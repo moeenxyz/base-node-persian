@@ -3,7 +3,7 @@
 
 
 <h1 align="center"> Base Node Install guide in Persian </h1>
-<h1 align="center"> راهنمای نصب نود بیس به فارسی <br> 👽 Moeendoteth 👽
+<h1 align="center"> راهنمای نصب نود بیس به فارسی <br> 👽 Moeen.eth 👽
 </h1>
 
 ## 👽  اطلاعات و نیازمندی ها

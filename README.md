@@ -49,7 +49,10 @@ sudo apt-get update && sudo apt install jq && sudo apt install apt-transport-htt
 ```
 <br><br>
 
+🟢🟢🟢
+
 #### 👽. کلون کردن فایل های گیتهاب بیس.
+
 
 ```
 git clone https://github.com/base-org/node.git
@@ -143,6 +146,29 @@ $((($( date +%s )-\
 $( curl -s -d '{"id":0,"jsonrpc":"2.0","method":"optimism_syncStatus"}' -H "Content-Type: application/json" http://localhost:7545 |
    jq -r .result.unsafe_l2.timestamp))/60)) minutes
 ```
+
+#### 👽 آپدیت کردن
+
+ابتدا برید داخل پوشه نود
+```
+cd node
+```
+
+بعد داکر رو بیارید پایین
+
+```
+docker compose down
+```
+
+برگردید به فولدر روت
+```
+cd
+```
+پوشه رو پاک کنید
+```
+rm -fr node
+```
+حالا برگردی به نقطه سبز توی مراحل بالا و دوباره مراحل رو انجام بدید.
 
 
 ممنون میشم اگر این مطلب رو ستاره بدید
